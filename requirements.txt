@@ -1,0 +1,3 @@
+nose
+mock
+-e git+https://github.com/ryanlarrabure/DarkSky.py.git/#egg=DarkSky.py
